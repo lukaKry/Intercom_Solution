@@ -1,5 +1,11 @@
 # Intercom_Solution
-A'la intercom Winforms app; Features: numeric pad, residents list connected by File I/O, Administration Panel with CRUD functions, 
+A'la intercom Winforms app; 
+
+#Features
+numeric pad, 
+residents list connected by File I/O (input to a txt file), 
+Administration Panel with CRUD functions, 
+data input by using text boxes with real-time validation 
 
 #Description
 
@@ -15,5 +21,7 @@ Press "konfiguracja" button to enter the Administration Panel
 Log in with 'admin' login and password (also 'admin')
 
 now, you can add, delete or modify existing apartments description
+list capacity limited to 100 records
+
 
 At the end press "Zapisz i wyjdź" to save data to the txt file, so they are visible on the next application run.
