@@ -1,0 +1,6 @@
+C:\Users\krysz\source\repos\Domofon_Solution\Domofon_ClassLibrary\bin\Release\Domofon_ClassLibrary.dll
+C:\Users\krysz\source\repos\Domofon_Solution\Domofon_ClassLibrary\bin\Release\Domofon_ClassLibrary.pdb
+C:\Users\krysz\source\repos\Domofon_Solution\Domofon_ClassLibrary\obj\Release\Domofon_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\krysz\source\repos\Domofon_Solution\Domofon_ClassLibrary\obj\Release\Domofon_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krysz\source\repos\Domofon_Solution\Domofon_ClassLibrary\obj\Release\Domofon_ClassLibrary.dll
+C:\Users\krysz\source\repos\Domofon_Solution\Domofon_ClassLibrary\obj\Release\Domofon_ClassLibrary.pdb

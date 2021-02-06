@@ -1,0 +1,6 @@
+Admin, 1, 1234
+Kryszak, 2, 1111
+Nowak, 3, 1122
+Kowalski, 4, 1122
+chyclak, 5, 2222
+Andrzejewski, 6, 6666
